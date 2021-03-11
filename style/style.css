@@ -1,0 +1,39 @@
+.atas{
+   width: 100%;
+   height: 200px; 
+   background-image: url('../assets/back8.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 10px;
+ }
+
+
+ .logoclass{
+   width: 80px;
+   
+ }
+
+
+ .navbar{
+   flex-direction: row;
+   justify-content: left;
+
+ }
+
+ table, th, td { border: 5px solid black;
+ }
+
+ table {
+   width: 70% !important;
+   margin: 20px;
+   table-layout: fixed;
+ }
+
+ td,th {
+   word-wrap: break-word;}
+
+ .content {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+ }
